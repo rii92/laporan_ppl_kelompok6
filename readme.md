@@ -29,7 +29,7 @@ Our goal is "Efficient and friendly for everyone":
 
 ## IMAGES:
 
-<img src="assets/images/Behaviour diagram.png">
+<img src="assets/images/Analisis_DiagramContext.drawio.png">
 <img src="https://s-cart.org/data/30/shop-list.jpg?v=1">
 <img src="https://s-cart.org/data/30/admin-dashboard.jpg?v=1">
 
