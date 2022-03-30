@@ -21,13 +21,14 @@ Open Source Software yang dipilih kelompok 6 kali ini yaitu S-cart. S-cart merup
 
 > deskripsi
 
-<pre>
+```
 S-cart merupakan aplikasi berbasis web yang menggunakan framework PHP yaitu Laravel dan framework CSS yaitu Bootstrap. S-Cart adalah proyek situs web e-commerce gratis untuk individu dan bisnis. S-cart ini dibangun di atas framework (kerangka kerja) Laravel dan teknologi terbaru. Tujuan dari dibuatnya S-Cart ini adalah "Efisien dan ramah untuk semua orang". S-cart memiliki menu untuk Admin dan untuk Customer atau user
+```
 
 <img src="https://s-cart.org/data/30/shop-list.jpg?v=1">
 <img src="https://s-cart.org/data/30/admin-dashboard.jpg?v=1">
+
 sumber: <a href="https://s-cart.org/">https://s-cart.org/</a>
-</pre>
 
 > daftar perubahan
 
