@@ -6,20 +6,25 @@
 Open Source Software yang dipilih kelompok 6 kali ini yaitu S-cart. S-cart merupakan aplikasi berbasis web.
 ```
 
-## link ke repositori GIT
+## Link Ke Repositori GIT
 
 <pre>
 1. S-cart sebelum modifikasi: <a href="https://github.com/s-cart/s-cart">https://github.com/s-cart/s-cart</a>
 2. S-cart setelah modifikasi: <a href="https://git.stis.ac.id/riofeb/s-cart">https://git.stis.ac.id/riofeb/s-cart</a>
 </pre>
 
-## nama kelompok
+## KELOMPOK 6
+- Riofebri Prasetya / (221911192) - Ketua
+- Dwi Joko Purnomo / (221910685)
+- I Wayan Chandra Purwatmaja / (221910870)
+- Maulyta Noer Fadilla / (221910938)
+- Denisa Hilmy Atiqah / (221911050)
 
-## nama dan nim serta kelas anggota kelompok (tandai ketuanya siapa)
 
-## deskripsi singkat S-cart
 
-> deskripsi
+## Deskripsi Singkat S-cart
+
+> Deskripsi
 
 ```
 S-cart merupakan aplikasi berbasis web yang menggunakan framework PHP yaitu Laravel dan framework CSS yaitu Bootstrap. S-Cart adalah proyek situs web e-commerce gratis untuk individu dan bisnis. S-cart ini dibangun di atas framework (kerangka kerja) Laravel dan teknologi terbaru. Tujuan dari dibuatnya S-Cart ini adalah "Efisien dan ramah untuk semua orang". S-cart memiliki menu untuk Admin dan untuk Customer atau user
@@ -46,5 +51,7 @@ sumber: <a href="https://s-cart.org/">https://s-cart.org/</a>
 ```
 
 ## pembagian tugas dalam kelompok
-
+-
+-
+-
 ## serta penjelasan singkat lainnya.
