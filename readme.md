@@ -5,6 +5,16 @@
 OSS (Open Source Software) yang dipilih untuk dilakukan penambahan fitur atau modifikasi yaitu S-cart. S-cart merupakan aplikasi berbasis web yang menggunakan framework PHP yaitu Laravel dan framework CSS yaitu Bootstrap. S-Cart adalah proyek situs web e-niaga gratis untuk individu dan bisnis. S-cart ini dibangun di atas framework (kerangka kerja) Laravel dan teknologi terbaru. Tujuan dari dibuatnya S-Cart ini adalah "Efisien dan ramah untuk semua orang".
 
 
+<img src="/assets/images/frontend/landingpage1.png">
+Tampilan Landing Page Awal S-Cart yang sudah dimodifikasi
+<br>
+
+
+<img src="/assets/images/frontend/login.png">
+Tampilan halaman login sc_admin yang sudah dimodifikasi
+<br>
+
+
 ## Link Ke Repositori GIT
 
 <pre>
