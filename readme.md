@@ -21,7 +21,7 @@ Tampilan halaman login sc_admin yang sudah dimodifikasi
 
 ## <b>KELOMPOK 6</b>
 
-- Riofebri Prasetya / (221911192) - Ketua
+- Riofebri Prasetia / (221911192) - Ketua
 - Dwi Joko Purnomo / (221910685)
 - I Wayan Chandra Purwatmaja / (221910870)
 - Maulyta Noer Fadilla / (221910938)
@@ -101,7 +101,7 @@ sumber: <a href="https://s-cart.org/">https://s-cart.org/</a>
 ## <b>Pembagian tugas dalam kelompok</b>
 
 <pre>
-1. Riofebri Prasetya:
+1. Riofebri Prasetia:
 
 - Melakukan hosting
 - membuat dokumentasi analisis
