@@ -4,16 +4,13 @@
 
 OSS (Open Source Software) yang dipilih untuk dilakukan penambahan fitur atau modifikasi yaitu S-cart. S-cart merupakan aplikasi berbasis web yang menggunakan framework PHP yaitu Laravel dan framework CSS yaitu Bootstrap. S-Cart adalah proyek situs web e-niaga gratis untuk individu dan bisnis. S-cart ini dibangun di atas framework (kerangka kerja) Laravel dan teknologi terbaru. Tujuan dari dibuatnya S-Cart ini adalah "Efisien dan ramah untuk semua orang".
 
-
-<img src="/assets/images/frontend/landingpage1.png">
+<img src="https://raw.githubusercontent.com/rii92/laporan_ppl_kelompok6/main/assets/images/frontend/landingpage1.png">
 Tampilan Landing Page Awal S-Cart yang sudah dimodifikasi
 <br>
 
-
-<img src="/assets/images/frontend/login.png">
+<img src="https://raw.githubusercontent.com/rii92/laporan_ppl_kelompok6/main/assets/images/frontend/login.png">
 Tampilan halaman login sc_admin yang sudah dimodifikasi
 <br>
-
 
 ## Link Ke Repositori GIT
 
@@ -23,12 +20,12 @@ Tampilan halaman login sc_admin yang sudah dimodifikasi
 </pre>
 
 ## KELOMPOK 6
+
 - Riofebri Prasetya / (221911192) - Ketua
 - Dwi Joko Purnomo / (221910685)
 - I Wayan Chandra Purwatmaja / (221910870)
 - Maulyta Noer Fadilla / (221910938)
 - Denisa Hilmy Atiqah / (221911050)
-
 
 ## Deskripsi Singkat S-cart
 
@@ -56,55 +53,57 @@ sumber: <a href="https://s-cart.org/">https://s-cart.org/</a>
 - Ctype PHP Extension
 - JSON PHP Extension
 - BCMath PHP Extension
-``` 
+```
 
 ## Daftar perubahan
 
-
 1. Modifikasi fitur Register (Frontend)
-<img src="/assets/images/fitur_1.png">
-<br>
+   <img src="https://raw.githubusercontent.com/rii92/laporan_ppl_kelompok6/main/assets/images/fitur_1.png">
+   <br>
 
 2. Modifikasi fitur Change Information (Frontend)
-<img src="/assets/images/fitur_2.png">
-<br>
+   <img src="https://raw.githubusercontent.com/rii92/laporan_ppl_kelompok6/main/assets/images/fitur_2.png">
+   <br>
 
 3. Modifikasi fitur Store Config Costumer (Backend)
-<img src="/assets/images/fitur_3.png">
-<br>
+   <img src="https://raw.githubusercontent.com/rii92/laporan_ppl_kelompok6/main/assets/images/fitur_3.png">
+   <br>
 
 4. Modifikasi fitur Home dengan menambahkan konten berita (Frontend)
-<img src="/assets/images/fitur_4.png">
-<br>
+   <img src="https://raw.githubusercontent.com/rii92/laporan_ppl_kelompok6/main/assets/images/fitur_4.png">
+   <br>
 
 5. Modifikasi button LOGIN dan REGISTER menjadi satu dropdown (Frontend)
-<img src="/assets/images/fitur_5.png">
-<br>
+   <img src="https://raw.githubusercontent.com/rii92/laporan_ppl_kelompok6/main/assets/images/fitur_5.png">
+   <br>
 
 6. Modifikasi tata letak dan desain halaman CONTACT US
-<img src="/assets/images/fitur_6.png">
-<br>
+   <img src="https://raw.githubusercontent.com/rii92/laporan_ppl_kelompok6/main/assets/images/fitur_6.png">
+   <br>
 
 7. Modifikasi Penambahan fitur bahasa Indonesia
-<img src="/assets/images/fitur_7.png">
+   <img src="https://raw.githubusercontent.com/rii92/laporan_ppl_kelompok6/main/assets/images/fitur_7.png">
 
 8. Modifikasi sidebar (Backend)
-<img src="/assets/images/fitur_8.png">
-<br>
+   <img src="https://raw.githubusercontent.com/rii92/laporan_ppl_kelompok6/main/assets/images/fitur_8.jpeg">
+   <br>
 
 9. Modifikasi desain tema (Backend)
-<img src="/assets/images/fitur_9.png">
-<br>
+   <img src="https://raw.githubusercontent.com/rii92/laporan_ppl_kelompok6/main/assets/images/fitur_9.jpeg">
+   <br>
 
 ## Pembagian tugas dalam kelompok
+
 - Riofebri Prasetya =>
 - Dwi Joko Purnomo =>
-- I Wayan Chandra Purwatmaja => 
+- I Wayan Chandra Purwatmaja =>
 - Maulyta Noer Fadilla =>
 - Denisa Hilmy Atiqah =>
 
 ## Serta penjelasan singkat lainnya.
+
 ## Instalasi
+
 ## Installation & configuration:
 
 <b>How to map your domain to s-cart? <a href="https://s-cart.org/en/docs/master/installation.html">CLICK HERE</a></b>
@@ -112,15 +111,19 @@ sumber: <a href="https://s-cart.org/">https://s-cart.org/</a>
 **Step1: Install last version S-cart**
 
 Option 1: **From composer**
+
 ```
 composer create-project s-cart/s-cart
 ```
 
 Option 2: **From github**
+
 ```
 git clone https://github.com/s-cart/s-cart.git
 ```
+
 Then, install vendor:
+
 ```
 composer install
 ```
@@ -133,8 +136,8 @@ composer install
 - <code>bootstrap/cache</code>
 - <code>app/Plugins</code>
 
-
 **Step3: Create database**
+
 ```
 - Create a new database. Example database name is "s-cart"
 ```
@@ -142,19 +145,22 @@ composer install
 **Step4: Install**
 
 Option 1: **Install automatic**
+
 ```
 Access your-domain.com/install.php to install S-cart.
 ```
-Then, remove or rename file *public/install.php*
+
+Then, remove or rename file _public/install.php_
 
 Option 2: **Manual installation**
 
 If installing with link "install.php" unsuccessful, you can install it manually below.
+
 ```
 1: Create new database, then import file /vendor/s-cart/core/src/DB/s-cart-yyyy-mm-dd.sql to database.
 2: Rename or delete file public/install.php
 3: Copy file .env.example to .env if file .env not exist.
-4: Generate API key if APP_KEY is null. 
+4: Generate API key if APP_KEY is null.
 - Use command "php artisan key:generate"
 5: Generates the encryption keys
   Use command "php artisan passport:keys"
@@ -191,7 +197,7 @@ Or you can use `php composer.phar update s-cart/core` if you don't have composer
 
 To create a plugin:
 
-`php artisan sc:make plugin  --name=Group\PluginName`
+`php artisan sc:make plugin --name=Group\PluginName`
 
 Detail: <a href="https://s-cart.org/en/docs/master/how-to-install-module-extension.html">HERE</a>
 
@@ -210,11 +216,10 @@ To manually customize the admin page (<code>resources/views/admin + config/admin
 `php artisan sc:customize admin`
 
 This command will create new directories `resources/views/admin` and file `config/admin.php`
-After set the value `customize=true` in `config/admin.php` you can modify template admin. 
+After set the value `customize=true` in `config/admin.php` you can modify template admin.
 
 To manually customize file config validation (<code>config/validation.php</code>):
 
 `php artisan sc:customize validation`
 
 More detail: https://s-cart.org/en/docs/master
-
