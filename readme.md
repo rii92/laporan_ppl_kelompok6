@@ -91,33 +91,49 @@ sumber: <a href="https://s-cart.org/">https://s-cart.org/</a>
 9. Modifikasi desain tema (Backend)
    <img src="https://raw.githubusercontent.com/rii92/laporan_ppl_kelompok6/main/assets/images/fitur_9.jpeg">
    <br>
-
-10. Modifikasi penambahan fitur captcha di Sc_Admin (Backend)
+10. Modifikasi tampilan banner dan navbar di landing page (Frontend)
     <img src="https://raw.githubusercontent.com/rii92/laporan_ppl_kelompok6/main/assets/images/fitur_10.jpeg">
+    <br>
+11. Modifikasi penambahan fitur captcha di Sc_Admin (Backend)
+    <img src="https://raw.githubusercontent.com/rii92/laporan_ppl_kelompok6/main/assets/images/fitur_11.jpeg">
     <br>
 
 ## <b>Pembagian tugas dalam kelompok</b>
 
+<pre>
 1. Riofebri Prasetya:
 
-- Hosting
-- mengerjakan fitur nomor 1 sampai 4 (perancangan, implementasi)
+- Melakukan hosting
+- membuat dokumentasi analisis
+- Mengerjakan fitur nomor 1 sampai 4 (perancangan, implementasi)
+- Membuat readme.md
 
 2. Dwi Joko Purnomo
 
-- mengerjakan fitur nomor 1 sampai 4 (perancangan, implementasi)
+- Mengerjakan fitur nomor 7 (perancangan, implementasi)
+- Merencanakan timeline
+- membantu identifikasi komponen web
 
 3. I Wayan Chandra Purwatmaja:
 
-- mengerjakan fitur nomor 10 sampai 4 (perancangan, implementasi)
+- Mengerjakan fitur nomor 10 dan 11 (perancangan, implementasi)
+- Dokumentasi instalasi
+- Membuat readme.md
 
 4. Maulyta Noer Fadilla:
 
-- mengerjakan fitur nomor 5 sampai 6 (perancangan, implementasi)
+- Mengerjakan fitur nomor 5 dan 6 (perancangan, implementasi)
+- Editor laporan
+- Membuat wiki
 
 5. Denisa Hilmy Atiqah:
 
-- mengerjakan fitur nomor 1 sampai 4 (perancangan, implementasi)
+- Mengerjakan fitur nomor 8 dan 9 (perancangan, implementasi)
+- Editor laporan
+- Membuat wiki
+
+note: analisis kebutuhan dan pemodelan analisis dilakukan secara bersama
+</pre>
 
 ## <b>Installation & configuration:</b>
 
@@ -238,3 +254,39 @@ To manually customize file config validation (<code>config/validation.php</code>
 `php artisan sc:customize validation`
 
 More detail: https://s-cart.org/en/docs/master
+
+## <b>Lisensi</b>
+
+> MIT License
+
+Copyright (c) 2019 S-Cart
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+> Community License S-Cart
+
+S-Cart is a free e-commerce website project for businesses. So:
+
+1.  you are entitled to integrate S-Cart for your own project without our permission.
+2.  using S-Cart is free..
+3.  we are exempted from all arising from the S-Cart build system.
+4.  you can delete S-Cart's copyright notice on the source code if you want (usually the "footer" of the project).
+
+But it is often a small donation to encourage future development.
+You can support our with donations and sponsoring. Sponsorships are crucial for ongoing and future development of the project. Any support is always welcome:)
