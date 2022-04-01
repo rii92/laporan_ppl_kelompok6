@@ -91,9 +91,13 @@ sumber: <a href="https://s-cart.org/">https://s-cart.org/</a>
 9. Modifikasi desain tema (Backend)
    <img src="https://raw.githubusercontent.com/rii92/laporan_ppl_kelompok6/main/assets/images/fitur_9.jpeg">
    <br>
-
-10. Modifikasi penambahan fitur captcha di Sc_Admin (Backend)
+   
+10. Modifikasi tampilan banner dan navbar di landing page (Frontend)
     <img src="https://raw.githubusercontent.com/rii92/laporan_ppl_kelompok6/main/assets/images/fitur_10.jpeg">
+    <br>
+    
+11. Modifikasi penambahan fitur captcha di Sc_Admin (Backend)
+    <img src="https://raw.githubusercontent.com/rii92/laporan_ppl_kelompok6/main/assets/images/fitur_11.jpeg">
     <br>
 
 ## <b>Pembagian tugas dalam kelompok</b>
