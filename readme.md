@@ -1,6 +1,6 @@
 <img src="https://static.s-cart.org/guide/info/s-cart-content.jpg">
 
-## S-cart
+## <b>S-cart</b>
 
 OSS (Open Source Software) yang dipilih untuk dilakukan penambahan fitur atau modifikasi yaitu S-cart. S-cart merupakan aplikasi berbasis web yang menggunakan framework PHP yaitu Laravel dan framework CSS yaitu Bootstrap. S-Cart adalah proyek situs web e-niaga gratis untuk individu dan bisnis. S-cart ini dibangun di atas framework (kerangka kerja) Laravel dan teknologi terbaru. Tujuan dari dibuatnya S-Cart ini adalah "Efisien dan ramah untuk semua orang".
 
@@ -12,14 +12,14 @@ Tampilan Landing Page Awal S-Cart yang sudah dimodifikasi
 Tampilan halaman login sc_admin yang sudah dimodifikasi
 <br>
 
-## Link Ke Repositori GIT
+## <b>Link Ke Repositori GIT</b>
 
 <pre>
 1. S-cart sebelum modifikasi: <a href="https://github.com/s-cart/s-cart">https://github.com/s-cart/s-cart</a>
 2. S-cart setelah modifikasi: <a href="https://git.stis.ac.id/riofeb/s-cart">https://git.stis.ac.id/riofeb/s-cart</a>
 </pre>
 
-## KELOMPOK 6
+## <b>KELOMPOK 6</b>
 
 - Riofebri Prasetya / (221911192) - Ketua
 - Dwi Joko Purnomo / (221910685)
@@ -27,7 +27,7 @@ Tampilan halaman login sc_admin yang sudah dimodifikasi
 - Maulyta Noer Fadilla / (221910938)
 - Denisa Hilmy Atiqah / (221911050)
 
-## Deskripsi Singkat S-cart
+## <b>Deskripsi Singkat S-cart</b>
 
 > Deskripsi
 
@@ -40,7 +40,7 @@ S-cart merupakan aplikasi berbasis web yang menggunakan framework PHP yaitu Lara
 
 sumber: <a href="https://s-cart.org/">https://s-cart.org/</a>
 
-## Requirements:
+## <b>Requirements:</b>
 
 ```
 - PHP >= ^7.3|^8.0 (S-Cart 6.x)
@@ -55,7 +55,7 @@ sumber: <a href="https://s-cart.org/">https://s-cart.org/</a>
 - BCMath PHP Extension
 ```
 
-## Daftar perubahan
+## <b>Daftar perubahan</b>
 
 1. Modifikasi fitur Register (Frontend)
    <img src="https://raw.githubusercontent.com/rii92/laporan_ppl_kelompok6/main/assets/images/fitur_1.png">
@@ -92,7 +92,11 @@ sumber: <a href="https://s-cart.org/">https://s-cart.org/</a>
    <img src="https://raw.githubusercontent.com/rii92/laporan_ppl_kelompok6/main/assets/images/fitur_9.jpeg">
    <br>
 
-## Pembagian tugas dalam kelompok
+10. Modifikasi penambahan fitur captcha di Sc_Admin (Backend)
+    <img src="https://raw.githubusercontent.com/rii92/laporan_ppl_kelompok6/main/assets/images/fitur_10.jpeg">
+    <br>
+
+## <b>Pembagian tugas dalam kelompok</b>
 
 - Riofebri Prasetya =>
 - Dwi Joko Purnomo =>
@@ -100,11 +104,7 @@ sumber: <a href="https://s-cart.org/">https://s-cart.org/</a>
 - Maulyta Noer Fadilla =>
 - Denisa Hilmy Atiqah =>
 
-## Serta penjelasan singkat lainnya.
-
-## Instalasi
-
-## Installation & configuration:
+## <b>Installation & configuration:</b>
 
 <b>How to map your domain to s-cart? <a href="https://s-cart.org/en/docs/master/installation.html">CLICK HERE</a></b>
 
@@ -183,7 +183,7 @@ If installing with link "install.php" unsuccessful, you can install it manually 
 
 More detail for installation: <a href="https://s-cart.org/en/docs/master/installation.html">HERE</a>
 
-## Useful information:
+## <b>Useful information:</b>
 
 To view S-Cart version information
 
