@@ -98,11 +98,26 @@ sumber: <a href="https://s-cart.org/">https://s-cart.org/</a>
 
 ## <b>Pembagian tugas dalam kelompok</b>
 
-- Riofebri Prasetya =>
-- Dwi Joko Purnomo =>
-- I Wayan Chandra Purwatmaja =>
-- Maulyta Noer Fadilla =>
-- Denisa Hilmy Atiqah =>
+1. Riofebri Prasetya:
+
+- Hosting
+- mengerjakan fitur nomor 1 sampai 4 (perancangan, implementasi)
+
+2. Dwi Joko Purnomo
+
+- mengerjakan fitur nomor 1 sampai 4 (perancangan, implementasi)
+
+3. I Wayan Chandra Purwatmaja:
+
+- mengerjakan fitur nomor 10 sampai 4 (perancangan, implementasi)
+
+4. Maulyta Noer Fadilla:
+
+- mengerjakan fitur nomor 5 sampai 6 (perancangan, implementasi)
+
+5. Denisa Hilmy Atiqah:
+
+- mengerjakan fitur nomor 1 sampai 4 (perancangan, implementasi)
 
 ## <b>Installation & configuration:</b>
 
